@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sun
 - 👀 I’m interested in Technology, Gaming (primarily Minecraft) and YouTube
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Github
 - 💞️ I’m looking to collaborate on Project_Actronix in the future, but for now, nothing :-)
 - 📫 How to reach me sunplaysminecraft@protonmail.com (bussiness or technology email)
 
