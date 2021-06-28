@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sun
+- 👋 Hi, I’m Sun (Formerly SuperPlayer56)
 - 👀 I’m interested in Technology, Gaming (primarily Minecraft) and YouTube.
 - 🌱 I’m currently learning Github and soon, I will do reverse enginering for my Project Actronix. 
 - 💞️ I’m looking to collaborate on Project Actronix in the future, but for now, nothing :-)
