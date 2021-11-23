@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technology, Gaming (primarily Minecraft) and YouTube.
 - 🌱 I’m currently learning Github and soon, I will do reverse enginering for my Project Actronix. 
 - 💞️ I’m looking to collaborate on Project Actronix in the future, but for now, nothing :-)
-- 📫 How to reach me sunplaysminecraft@protonmail.com (bussiness or technology email)
+- 📫 How to reach me sunislost@protonmail.com (bussiness or technology email)
 
 <!---
 ItsSun/Project_Actronix is a ✨ special ✨ repository because its a fork of OpenShot Video Editor and I want it to have similar look to Windows Movie Maker,
