@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sun (Formerly SuperPlayer56)
-- 👀 I’m interested in Technology, Gaming (primarily Minecraft) and YouTube.
-- 🌱 I’m currently learning Github and soon, I will do reverse enginering for my Project Actronix. 
+- 👀 I’m interested in Technology, Gaming (primarily Minecraft), My Little Pony and YouTube.
+- 🌱 I’m currently creating Elevator mod for Minecraft. 
 - 💞️ I’m looking to collaborate on Project Actronix in the future, but for now, nothing :-)
 - 📫 How to reach me sunislost@protonmail.com (bussiness or technology email)
 
